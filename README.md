@@ -7,6 +7,8 @@ Python+Gtk  To  Generator PS1 prompt
 
 ![Alt text](https://raw.githubusercontent.com/yucefsourani/vte-bash-prompt-generator/master/Screenshot1.png "Screenshot")
 
+![Alt text](https://raw.githubusercontent.com/yucefsourani/vte-bash-prompt-generator/master/Screenshot2.png "Screenshot")
+
 
 
 * Requires
